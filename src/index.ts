@@ -1,1 +1,5 @@
-export * from "./lib/module";
+function main() {
+  console.log("Hello World");
+}
+
+main();
